@@ -122,5 +122,3 @@ To add a new ability, add a tool definition to `TOOLS` in `tools.py` and handle 
 Contributions are welcome. Open an issue or a pull request.
 
 ## License
-
-MIT. See [LICENSE](LICENSE).
