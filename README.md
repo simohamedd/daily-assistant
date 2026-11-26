@@ -120,5 +120,3 @@ All settings are read from your `.env` file:
 To add a new ability, add a tool definition to `TOOLS` in `tools.py` and handle it in `_run()`.
 
 Contributions are welcome. Open an issue or a pull request.
-
-## License
